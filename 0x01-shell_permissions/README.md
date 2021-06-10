@@ -6,3 +6,4 @@ This repo directory contains scripts and what tasks they perform:
 4-empty creates an empty file named hello
 5-execute adds execute permission to the owner of the file hello
 6-multiple_permissions adds execute permissions to owner and group owner and read permission to other user
+7-everybody adds execution permissions to the owner, group owner and other users.
