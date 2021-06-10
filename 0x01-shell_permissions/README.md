@@ -14,3 +14,4 @@ This repo directory contains scripts and what tasks they perform:
 12-directory_permissions makes a directory and grants permissions 751
 13-change_group changes group owner of the file hello to holberton
 100-change_owner_and_group changes the owner to betty and group owner to holberton for all files and directories
+101-symbolic_link_permissions changes owner and group owner of _hello to betty and holberton respectively
