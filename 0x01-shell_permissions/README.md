@@ -12,3 +12,4 @@ This repo directory contains scripts and what tasks they perform:
 10-mirror_permissions sets mode permissions of file hello the same as olleh
 11-directories_permissions grants execute permissions to all subdirectories for owner, groups and users
 12-directory_permissions makes a directory and grants permissions 751
+13-change_group changes group owner of the file hello to holberton
