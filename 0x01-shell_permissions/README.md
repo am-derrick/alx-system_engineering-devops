@@ -9,3 +9,4 @@ This repo directory contains scripts and what tasks they perform:
 7-everybody adds execution permissions to the owner, group owner and other users.
 8-James_Bond grants no permission to th owner and owner group but grants all permission to other users
 9-John_Doe grants the following permissions: -rwxr-x-wx
+10-mirror_permissions sets mode permissions of file hello the same as olleh
