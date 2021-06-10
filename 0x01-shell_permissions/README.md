@@ -10,3 +10,4 @@ This repo directory contains scripts and what tasks they perform:
 8-James_Bond grants no permission to th owner and owner group but grants all permission to other users
 9-John_Doe grants the following permissions: -rwxr-x-wx
 10-mirror_permissions sets mode permissions of file hello the same as olleh
+12-directory_permissions makes a directory and grants permissions 751
