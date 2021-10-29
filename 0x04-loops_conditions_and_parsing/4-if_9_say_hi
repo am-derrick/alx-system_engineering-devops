@@ -8,7 +8,7 @@ while [ "$COUNTER" -lt 10 ]; do
       then
 	echo "Hi"
       fi
-      let COUNTER=COUNTER+1
+      (( COUNTER++ ))
 done
 
 	
