@@ -1,4 +1,4 @@
-#/usr/bin/env bash
+#!/usr/bin/env bash
 # fixes nginx to listen on port 80 on all IPv4 IPs
 
 sudo rm /etc/nginx/sites-enabled/default
