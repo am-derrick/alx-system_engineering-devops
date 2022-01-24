@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # Configures ufw to block all incomining traffic exceprt certain TCP ports
 sudo ufw disable
-sudo ufw defaut deny incoming
+sudo ufw default deny incoming
 sudo ufw allow 22/tcp
 sudo ufw allow 80/tcp
-sudo allow 443/tcp
+sudo ufw allow 443/tcp
 sudo ufw enable
